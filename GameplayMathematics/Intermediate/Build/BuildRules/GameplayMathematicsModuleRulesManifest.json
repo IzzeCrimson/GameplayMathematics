@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GitHubProjects\\GameplayMathematics\\GameplayMathematics\\Source\\GameplayMathematics\\GameplayMathematics.Build.cs",
+		"C:\\GitHubProjects\\GameplayMathematics\\GameplayMathematics\\Source\\GameplayMathematics.Target.cs",
+		"C:\\GitHubProjects\\GameplayMathematics\\GameplayMathematics\\Source\\GameplayMathematicsEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

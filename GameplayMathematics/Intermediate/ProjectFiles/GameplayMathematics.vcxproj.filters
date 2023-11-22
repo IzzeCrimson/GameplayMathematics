@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameplayMathematics.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameplayMathematics.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameplayMathematicsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GameplayMathematics">
+      <UniqueIdentifier>{9EBF7A65-9260-3BEE-A904-2C040009444A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameplayMathematics\GameplayMathematics.Build.cs">
+      <Filter>Source\GameplayMathematics</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameplayMathematics\GameplayMathematics.cpp">
+      <Filter>Source\GameplayMathematics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameplayMathematics\GameplayMathematics.h">
+      <Filter>Source\GameplayMathematics</Filter>
+    </ClInclude>
+    <Filter Include="Source\GameplayMathematics\Private">
+      <UniqueIdentifier>{F8F488AC-A545-35D6-832F-EE3E968CAD3B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GameplayMathematics\Private\TestClass.cpp">
+      <Filter>Source\GameplayMathematics\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\GameplayMathematics\Public">
+      <UniqueIdentifier>{CE6FCCCA-164D-3FBA-8A56-374B06A2FB2D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GameplayMathematics\Public\TestClass.h">
+      <Filter>Source\GameplayMathematics\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

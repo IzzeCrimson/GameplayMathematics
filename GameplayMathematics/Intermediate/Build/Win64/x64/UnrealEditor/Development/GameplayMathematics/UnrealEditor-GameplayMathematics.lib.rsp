@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameplayMathematics.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\GitHubProjects\GameplayMathematics\GameplayMathematics\Intermediate\Build\Win64\x64\GameplayMathematicsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\GitHubProjects\GameplayMathematics\GameplayMathematics\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayMathematics\GameplayMathematics.cpp.obj"
+"C:\GitHubProjects\GameplayMathematics\GameplayMathematics\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayMathematics\TestClass.cpp.obj"
+"C:\GitHubProjects\GameplayMathematics\GameplayMathematics\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayMathematics\Default.rc2.res"
+/OUT:"C:\GitHubProjects\GameplayMathematics\GameplayMathematics\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayMathematics\UnrealEditor-GameplayMathematics.lib"
